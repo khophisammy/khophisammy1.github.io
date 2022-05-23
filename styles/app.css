@@ -626,7 +626,7 @@ img {
         width: 100%; } }
 
 .footer__copyright {
-  background-color: var(--color-darkest);
+  background-color: #19008a;
   color: var(--color-light);
   font-size: 1.4rem;
   text-align: center;
