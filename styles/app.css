@@ -379,18 +379,18 @@ img {
           object-fit: cover;
           object-position: top center; }
       .portfolio__box:nth-child(2) .portfolio__title, .portfolio__box:nth-child(3) .portfolio__title {
-        color: #ffc800; }
+        color: #ffffff; }
       .portfolio__box:nth-child(2) .portfolio__content, .portfolio__box:nth-child(3) .portfolio__content {
-        color: #ffc800;
+        color: #ffffff;
         margin-right: 2rem; }
       .portfolio__box:nth-child(2) .portfolio__link, .portfolio__box:nth-child(3) .portfolio__link {
-        color: #ffc800;
+        color: #ffffff;
         border-color: #ffffff;
         display: inline-block;
         margin-bottom: 4rem; }
     .portfolio__box:nth-child(3) {
        
-      background-color: #ffffff; }
+      background-color: #19008a; }
     .portfolio__box:nth-child(4) {
       flex-direction: row; }
       @media only screen and (max-width: 900px) {
