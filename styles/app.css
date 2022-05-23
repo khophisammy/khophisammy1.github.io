@@ -343,7 +343,7 @@ img {
           flex-direction: column; } }
       .portfolio__box:nth-child(1) .portfolio__img, .portfolio__box:nth-child(4) .portfolio__img {
         width: 45%;
-        background-color: var(--color-accent); }
+        background-color: #fa0000; }
       .portfolio__box:nth-child(1) .portfolio__info, .portfolio__box:nth-child(4) .portfolio__info {
         width: 50%; }
       .portfolio__box:nth-child(1) .portfolio__link, .portfolio__box:nth-child(4) .portfolio__link {
@@ -354,7 +354,7 @@ img {
           flex-direction: column; }
           .portfolio__box:nth-child(1) .portfolio__img, .portfolio__box:nth-child(4) .portfolio__img {
             width: 100%;
-            background-color: var(--color-accent); }
+            background-color: #fa0000; }
           .portfolio__box:nth-child(1) .portfolio__info, .portfolio__box:nth-child(4) .portfolio__info {
             width: 100%; } }
     .portfolio__box:nth-child(2), .portfolio__box:nth-child(3) {
