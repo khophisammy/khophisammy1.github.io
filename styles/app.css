@@ -97,7 +97,7 @@ img {
   .section__title {
     line-height: 1.3;
     font-size: 3.2rem;
-    color: var(--color-light);
+    color: #0004fa;
     font-weight: var(--font-black); }
     @media only screen and (max-width: 900px) {
       .section__title {
