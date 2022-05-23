@@ -389,7 +389,8 @@ img {
         display: inline-block;
         margin-bottom: 4rem; }
     .portfolio__box:nth-child(3) {
-      background-color: var(--color-tomato); }
+       color: #1b1b1c;
+      background-color: #ffffff; }
     .portfolio__box:nth-child(4) {
       flex-direction: row; }
       @media only screen and (max-width: 900px) {
