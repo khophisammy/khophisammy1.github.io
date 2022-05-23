@@ -379,17 +379,17 @@ img {
           object-fit: cover;
           object-position: top center; }
       .portfolio__box:nth-child(2) .portfolio__title, .portfolio__box:nth-child(3) .portfolio__title {
-        color: #ffffff; }
+        color: #ffc800; }
       .portfolio__box:nth-child(2) .portfolio__content, .portfolio__box:nth-child(3) .portfolio__content {
-        color: #ffffff;
+        color: #ffc800;
         margin-right: 2rem; }
       .portfolio__box:nth-child(2) .portfolio__link, .portfolio__box:nth-child(3) .portfolio__link {
-        color: #ffffff;
+        color: #ffc800;
         border-color: #ffffff;
         display: inline-block;
         margin-bottom: 4rem; }
     .portfolio__box:nth-child(3) {
-       color: #1b1b1c;
+       
       background-color: #ffffff; }
     .portfolio__box:nth-child(4) {
       flex-direction: row; }
