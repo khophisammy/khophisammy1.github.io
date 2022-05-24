@@ -592,7 +592,7 @@ img {
         .contact__info a {
           font-size: 2rem; } }
       .contact__info a:hover {
-        color: var(--color-accent); }
+        color: #19008a; }
     @media only screen and (max-width: 900px) {
       .contact__info .social {
         justify-content: center; } }
