@@ -73,7 +73,7 @@ img {
   box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.15);
   font-weight: var(--font-medium); }
   .btn--main {
-    background-color: var(--color-main);
+    background-color: #19008a;
     color: var(--color-light); }
 
 .social {
